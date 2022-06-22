@@ -1,4 +1,4 @@
-
+// find the character with the highest no of occurence
    //max char in a string
 const maximus = (str) =>{
 	const data = {};
